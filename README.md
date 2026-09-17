@@ -1,0 +1,2 @@
+# script-steal-an-egg
+loadstring(game:HttpGet("https://api.luarmor.net/files/v4/loaders/36107afd3107e8d841f9d1a69e2465d4.lua"))()
